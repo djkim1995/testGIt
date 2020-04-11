@@ -28,10 +28,15 @@ namespace WindowsFormsApp1
         {
             // 동주 작업하자
         }
-
+        
         static void someThing2()
         {
             // 동준 작업하자
+            int jun = 1;
+            for(jun = 0; jun < 10; jun++)
+            {
+                //ㅎㅇ
+            }
         }
 	}
 }
