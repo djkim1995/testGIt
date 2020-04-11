@@ -23,5 +23,15 @@ namespace WindowsFormsApp1
         {
             int a = 1;
         }
+
+        static void someThing1()
+        {
+            // 동주 작업하자
+        }
+
+        static void someThing2()
+        {
+            // 동준 작업하자
+        }
 	}
 }
