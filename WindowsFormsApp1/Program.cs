@@ -37,7 +37,8 @@ namespace WindowsFormsApp1
         {
             // 동준 작업하자
             int jun = 1;
-            for(jun = 0; jun < 10; jun++)
+            int i;
+            for(i = 0; i < 10; i++)
             {
                 //ㅎㅇ
             }
