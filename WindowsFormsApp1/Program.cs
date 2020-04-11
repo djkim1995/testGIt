@@ -27,6 +27,10 @@ namespace WindowsFormsApp1
         static void someThing1()
         {
             // 동주 작업하자
+			for(int i=0; i<10; i++)
+			{
+				int b += i;
+			}
         }
 
         static void someThing2()
