@@ -36,8 +36,7 @@ namespace WindowsFormsApp1
         static void someThing2()
         {
             // 동준 작업하자
-            int jun = 1;
-            for(jun = 0; jun < 10; jun++)
+            for(int b = 0; b < 10; b++)
             {
                 //ㅎㅇ
             }
