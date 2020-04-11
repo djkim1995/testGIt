@@ -31,6 +31,26 @@ namespace WindowsFormsApp1
 			{
 				int b += i;
 			}
+			for(int i=0; i<10; i++)
+			{
+				int b += i;
+			}
+			for(int i=0; i<10; i++)
+			{
+				int b += i;
+			}
+			for(int i=0; i<10; i++)
+			{
+				int b += i;
+			}
+			for(int i=0; i<10; i++)
+			{
+				int b += i;
+			}
+			for(int i=0; i<10; i++)
+			{
+				int b += i;
+			}
         }
         
         static void someThing2()
